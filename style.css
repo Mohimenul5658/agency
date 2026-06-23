@@ -44,7 +44,7 @@
 
 /* whyus section starts here*/
  #whyus{
-  background-image: url("./img/whyus.jpg");
+  background-image: url("whyus.jpg");
      background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -121,7 +121,7 @@
 /* about section start here*/
 
 #about{
-  background: url(./img/about.png);
+  background: url(about.png);
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -546,7 +546,7 @@
 
 .img-div{
     height: 400px;
-    background-image: url('./img/location.png');
+    background-image: url('location.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
